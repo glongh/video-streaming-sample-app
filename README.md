@@ -25,6 +25,10 @@
 * [Slides](http://www.slideshare.net/contest-theta360/ricoh-theta-x-iot-developers-contest-cloud-api-seminar-2nd-installation)
 
 ---
+# Article on the Sample Applications
+
+The article below was originally published as part of the
+[THETA Unofficial Guide](http://lists.theta360.guide/t/360-video-conferencing-with-the-ricoh-theta-s/38?u=codetricity) series. The Unofficial Guides are community-contributed content and not endorsed by RICOH. The original sample code is from RICOH. The README was extended by the community in this fork of the master repository.
 
 You can  live stream 360 video between two computers using a browser. The video stream has  full 360 degree navigation, enabling 360 video conferencing between two people.
 
