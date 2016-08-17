@@ -184,15 +184,16 @@ In my test network, I have the THETA connected to my Linux computer with a USB c
 
 I have a second Windows 10 computer on the same subnet connected with Ethernet.
 
-![](/uploads/default/original/1X/e64fb4d52f66132fcea47f41d8e25c70c3e568c6.png)
+![](http://lists.theta360.guide/uploads/default/optimized/1X/e64fb4d52f66132fcea47f41d8e25c70c3e568c6_1_690x433.png)
 
 Here's how the network looks.
 
-![](/uploads/default/original/1X/9687f904fa32bf0b1bda665284d7908e9a86e7e9.png)
+![](http://lists.theta360.guide/uploads/default/original/1X/9687f904fa32bf0b1bda665284d7908e9a86e7e9.png)
 
-Here's what your screen may look like.
+Here's
+[video](https://www.youtube.com/watch?v=gnZ9IcqHruA) of what your screen may look like.
 
-https://www.youtube.com/watch?v=gnZ9IcqHruA
+
 
 I've had problems connecting from Linux to Windows with the default firewall settings on Windows. If you have problems, turn off Windows firewall.  You only need to connect from *Computer A* to *Computer B*, this is enough to set up a video streaming connection from each computer. Similar to using Skype, only one person needs to initiate the connection and then two-way video conferencing is set up.
 
@@ -208,14 +209,9 @@ Here's a diagram with some of the technology used.
 
 To view the two 360 streams between two different computers on two separate networks (example: San Francisco and Palo Alto), you'll need to assign each computer a static IP address on the Internet (not NAT on an internal network) or use NAT traversal.
 
-![](/uploads/default/original/1X/8c771e7dcc07ad4c8253cf7618bec0c8d2588601.png)
+![](http://lists.theta360.guide/uploads/default/original/1X/8c771e7dcc07ad4c8253cf7618bec0c8d2588601.png)
 
 I have not tried NAT Traversal yet.
-
-You can check out two untested services for STUN / TURN for NAT traversal here:
-
-- Untested [Eyeball](http://www.eyeball.com/standards/stun-turn-ice/)
-- Untested [Twilio](https://www.twilio.com/stun-turn/pricing)
 
 Article on [WebRTC](http://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
 
